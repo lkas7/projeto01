@@ -1,0 +1,28 @@
+body { 
+    color:beige;
+    background-color: black
+    ;
+font-family:Verdana, Geneva, Tahoma, sans-serif;}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 35px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.center {
+    text-align: center;
+}
+nav A:hover {
+    color:yellow
+}
